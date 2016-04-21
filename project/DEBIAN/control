@@ -1,0 +1,6 @@
+Package: simple_restfull_api
+Version: current
+Priority: optional
+Architecture: all
+Maintainer: Konstantin Ivanov
+Description: Simple RESTfull API

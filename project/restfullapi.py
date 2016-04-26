@@ -3,7 +3,7 @@ from bottle import route
 @route('/<command>')
 def ping(command=None):
   if command.lower() == "ping":
-    return "pong!"
+    return "pong?"
   else:
     return "Unknown command"
 
